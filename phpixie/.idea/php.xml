@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/auth-social" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/template" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/slice" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/auth" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/security" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/config" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/framework" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/http-processors" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/route" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/cache" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/validate" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/database" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/ircmaxell/password-compat" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/console" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/debug" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/auth-login" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/auth-http" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/orm" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/http" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/migrate" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/social" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/processors" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/auth-processors" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/image" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/paginate-orm" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/paginate" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/cli" />
+      <path value="$PROJECT_DIR$/vendor/phpixie/auth-orm" />
+      <path value="$PROJECT_DIR$/project/vendor/ircmaxell/password-compat" />
+      <path value="$PROJECT_DIR$/project/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/project/vendor/composer" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/framework-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/database" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/validate" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/di" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/cache" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/route" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/test" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/http-processors" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/framework" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/config" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/security" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/auth" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/slice" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/template" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/bundle-framework" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/filesystem" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/auth-social" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/auth-orm" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/cli" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/paginate" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/paginate-orm" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/image" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/auth-processors" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/processors" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/social" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/migrate" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/http" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/orm" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/auth-http" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/default-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/bundles" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/auth-login" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/debug" />
+      <path value="$PROJECT_DIR$/project/vendor/phpixie/console" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/project/bundles/app/src" isTestSource="false" packagePrefix="Project\App\" />
+      <sourceFolder url="file://$MODULE_DIR$/project/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project/tests" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" packagePrefix="Justin\Phpixe\" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/ircmaxell/password-compat" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/auth" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/auth-http" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/auth-login" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/auth-orm" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/auth-processors" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/auth-social" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/bundle-framework" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/bundles" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/cli" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/config" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/console" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/database" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/default-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/di" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/framework-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/http" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/http-processors" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/image" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/migrate" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/paginate" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/paginate-orm" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/processors" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/route" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/security" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/slice" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/social" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/template" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/test" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/phpixie/validate" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
